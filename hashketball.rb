@@ -224,7 +224,7 @@ end
 
 def big_shoe_rebounds()
   biggest_shoe = 0
-  result = ""
+  result = ""                        
   
   home_players = game_hash[:home][:players]
   away_players = game_hash[:away][:players]
